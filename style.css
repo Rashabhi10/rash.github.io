@@ -1,0 +1,21 @@
+	body {
+		background-image: url("8.1 header.jpg");
+	}
+
+	p {
+		color: white;
+		text-align: center;
+		position: relative;
+		top:330px;
+		font-size: xx-large;
+	}
+
+	.sub {
+		text-align: center;
+		font-size: xx-large;
+		background-color: red;
+		color: white;
+		position: relative;
+		top:550px;
+		left: 690px;
+	}
